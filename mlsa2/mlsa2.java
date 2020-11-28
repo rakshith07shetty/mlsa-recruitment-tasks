@@ -31,14 +31,13 @@ public class mlsa2
            if (inp.charAt(i)==test[j]){
            no ++;
            System.out.println(inp.charAt(i)+"  ");}
-            }
-            
-         
-        
-        
-        
-       
-     
+            } 
         }
+        
+         System.out.println(no);
+        
+        
+        
+
     }   
 }
